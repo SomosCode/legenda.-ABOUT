@@ -1,0 +1,74 @@
+<main class="about">
+    <!-- Introduction Section -->
+    <section class="intro">
+        <div class="container">
+            <h1>About TattooArt</h1>
+            <p>At TattooArt, we are passionate about providing the best tattoo-related products and services. Learn more about our journey and the people behind our brand.</p>
+        </div>
+    </section>
+
+    <!-- Our Story Section -->
+    <section class="our-story">
+        <div class="container">
+            <h2>Our Story</h2>
+            <div class="story-content">
+                <div class="story-image">
+                    <img src="our-story.jpg" alt="Our Story">
+                </div>
+                <div class="story-text">
+                    <p>Founded in 2010, TattooArt started as a small shop with a big dream: to offer high-quality tattoo supplies to artists around the world. Over the years, we have grown into a leading online retailer, dedicated to providing our customers with the best products and customer service.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Our Team Section -->
+    <section class="our-team">
+        <div class="container">
+            <h2>Meet Our Team</h2>
+            <div class="team-cards">
+                <div class="team-card">
+                    <img src="team-member1.jpg" alt="Team Member 1">
+                    <h3>John Doe</h3>
+                    <p>Founder & CEO</p>
+                </div>
+                <div class="team-card">
+                    <img src="team-member2.jpg" alt="Team Member 2">
+                    <h3>Jane Smith</h3>
+                    <p>Head of Marketing</p>
+                </div>
+                <div class="team-card">
+                    <img src="team-member3.jpg" alt="Team Member 3">
+                    <h3>Mike Johnson</h3>
+                    <p>Lead Designer</p>
+                </div>
+                <div class="team-card">
+                    <img src="team-member4.jpg" alt="Team Member 4">
+                    <h3>Emily Davis</h3>
+                    <p>Customer Support Manager</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <h2>What Our Customers Say</h2>
+            <div class="testimonial-cards">
+                <div class="testimonial-card">
+                    <p>"TattooArt has the best products and their customer service is outstanding. I wouldn't shop anywhere else!"</p>
+                    <h3>- Alex Brown</h3>
+                </div>
+                <div class="testimonial-card">
+                    <p>"I'm always impressed with the quality and selection at TattooArt. They truly understand the needs of tattoo artists."</p>
+                    <h3>- Sarah Wilson</h3>
+                </div>
+                <div class="testimonial-card">
+                    <p>"TattooArt is my go-to for all my tattoo supplies. Fast shipping and great prices. Highly recommend!"</p>
+                    <h3>- David Lee</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
